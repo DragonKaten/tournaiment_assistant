@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#9ABACF</color>
+    <color name="purple_500">#7C9CAF</color>
+    <color name="purple_700">#5789A8</color>
+    <color name="purple_7001">#607988</color>
+    <color name="teal_200">#a2bccd</color>     <!-- підкреслення у текст полі -->
+    <color name="teal_700">#71848F</color>  <!-- підкреслення у текст полі для темної теми -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_grey">#CCCCCC</color>
+    <color name="tableRowBackgroundDarkEven">#121212</color> <!-- темний для темної теми -->
+    <color name="tableRowBackgroundDarkOdd">#333333</color>
+    <color name="gray_seagull">#a2bccd</color>
+    <color name="active_fight_background">#ADD3ED</color> <!-- Колір для активного бою -->
+    <color name="default_fight_background">#D3D3D3</color> <!-- Колір для звичайного фону -->
+</resources>

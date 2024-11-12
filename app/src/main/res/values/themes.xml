@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.INeedHELP" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <!-- верхня панель (ActionBar) і кнопки -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <!--колір тексту, що знаходиться на основному фоні. Це зазвичай контрастний колір для забезпечення зручності читання. -->
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <!--  колір для другорядних елементів, таких як кнопки, або інтерфейсні елементи, що мають меншу значущість-->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <!--  колір тексту, що знаходиться на вторинному фоні. Теж контрастний для зручного читання.-->
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.INeedHELP.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.INeedHELP.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.INeedHELP.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

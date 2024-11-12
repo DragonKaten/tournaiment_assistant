@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Турнірний помічник</string>
+    <string name="navigation_drawer_open">Відкрити меню навігації</string>
+    <string name="navigation_drawer_close">Закрити меню навігації</string>
+    <string name="nav_header_title">Турнірний помічник</string>
+
+    <string name="nav_header_desc">Заголовок навігації</string>
+    <string name="action_settings">Налаштування</string>
+
+    <string name="please_fill_in_the_input_field">Будь ласка, заповніть поле вводу</string>
+    <string name="cancel">Скасувати</string>
+    <string name="ok">Гаразд</string>
+    <string name="enter_tournament_name">Введіть назву турніру</string>
+    <string name="group_fights_title">Бої групи %1$d</string>
+
+    <string name="display_mode_button_text">Режим показу для групи %1$d</string>
+    <string name="buffer_cleared_message">Файл буфера очищено!</string>
+    <string name="divide_fighters_title">Розподіл бійців</string>
+    <string name="divide_fighters_message">Ви хочете розподілити бійців на %1$d груп?</string>
+    <string name="number_too_low_message">Кількість бійців має бути більше ніж 3.</string>
+    <string name="all_fields_required">Заповніть усі поля!</string>
+    <string name="unique_names_required">Імена мають бути унікальними!</string>
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="invalid_number_message">Будь ласка, введіть нормальне число</string>
+    <string name="error_loading_fights_data">Помилка завантаження даних боїв</string>
+    <string name="fill_score_fields">Будь ласка, заповніть поля рахунку</string>
+    <string name="scores_updated_successfully">Рахунок успішно оновлено</string>
+    <string name="failed_to_update_scores">Не вдалося оновити рахунки</string>
+    <string name="save_tournament_button_text">Зберегти турнір</string>
+    <string name="delete_tournament_button_text">Видалити турнір</string>
+    <string name="file_deleted">Турнір видалено</string>
+    <string name="error_deleting_file">Помилка під час видалення файлу з турніром</string>
+    <string name="no_history_files">У вас немає турнірів в історії(</string>
+    <string name="delete_file">Видалити файл</string>
+    <string name="delete_confirmation_message">Ви впевнені, що хочете видалити цей файл?</string>
+    <string name="delete">Видалити</string>
+    <string name="open_as_tournament">Відкрити як турнір</string>
+    <string name="content_copied">Вміст скопійовано у файл буфера</string>
+    <string name="unique_file_not_exist">Цього файлу не існує</string>
+    <string name="saved_as">Збережено як %1$s</string>
+    <string name="theme">Темна тема</string>
+    <string name="language">Мова</string>
+
+    <string name="menu_home">Головна</string>
+    <string name="menu_history">Історія</string>
+    <string name="menu_settings">Налаштування</string>
+    <string name="menu_info">Інформація</string>
+    <string name="btn_text_create_new_tournament">Новий турнір</string>
+    <string name="textView_enter_the_number_of_fighters">Введіть кількість бійців</string>
+    <string name="editText_enter_number">Введіть число</string>
+    <string name="btn_confirm">Підтвердити</string>
+    <string name="fighters_group">Група бійців %1$d (%2$d бійців)</string>
+    <string name="fighter_hint">Боєць %1$d</string>
+    <string name="btn_generate">Генерувати</string>
+    <string name="btn_back">Назад</string>
+    <string name="btn_next">Далі</string>
+    <string name="fighter_s_1_score">Очки бійця 1</string>
+    <string name="fighter_s_2_score">Очки бійця 2</string>
+    <string name="f_1_score">Очки 1</string>
+    <string name="f_2_score">Очки 2</string>
+
+    <string name="app_info">
+        Додаток "Турнірний Помічник" створено для автоматизації процесу створення турнірних сіток боїв для проведення тренувань або змагань з історичного середньовічного бою.\n\n
+
+        Розробниця: Романенко Катерина\n
+        Університет: ОНТУ\n
+        Група: 342\n
+        Рік розробки: 2024\n
+        Технічна підтримка: smalldragonket@gmail.com
+    </string>
+
+</resources>
